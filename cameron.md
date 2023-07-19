@@ -1,3 +1,3 @@
 Dog (canine)
 
-adding more info here
+- [x] adding more info here
